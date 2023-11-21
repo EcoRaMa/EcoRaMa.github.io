@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://EcoRaMa.github.io/al-folio/sitemap.xml
+Sitemap: https://EcoRaMa.github.io/sitemap.xml
