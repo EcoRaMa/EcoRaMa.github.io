@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-{% include projects.html %}
+{% include team.html %}
