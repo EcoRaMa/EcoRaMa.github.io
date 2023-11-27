@@ -1,0 +1,324 @@
+---
+layout: page
+title: Pannell lab - Team
+permalink: /team/
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+
+<style>
+.our-team{ text-align: center; }
+.our-team .pic{
+    border-radius: 50%;
+    margin-bottom: 20px;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+}
+.our-team .pic:before,
+.our-team .pic:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 50px 0 0 #5b805900 inset, 0 50px 0 #5b805900 inset, -50px 0 0 #5b805900 inset, 0 -50px 0 #5b805900 inset;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 300ms linear 0s;
+    border: 4px solid #666;
+}
+.our-team .pic:after{
+    transform: rotate(45deg);
+}
+.our-team:hover .pic:after,
+.our-team:hover .pic:before{
+  box-shadow: 0px 0 0 #5b8059 inset, 0 0px 0 #5b8059 inset, -0px 0 0 #5b8059 inset, 0 -0px 0 #5b8059 inset;
+    border: 4px solid #5b8059;
+  }
+.our-team .pic img{
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+    transition: all 300ms linear 0s;
+    filter: grayscale(0%);
+}
+.our-team:hover .pic img{
+    transform: scale(1.1);
+    filter: grayscale(0%);
+}
+.our-team .title{
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    color: #666;
+    letter-spacing: 1px;
+    margin-bottom: -10px;
+}
+.our-team:hover .title{ color: #5b8059; }
+
+
+.our-team .post{
+    display: block;
+    font-size: 15px;
+    color: #333;
+    text-transform: capitalize;
+}
+.our-team .social{
+    padding: 0;
+    margin: 25px 0 0 0;
+    list-style: none;
+}
+.our-team .social li{
+    display: inline-block;
+    margin-right: 5px;
+}
+.our-team .social li a{
+    display: block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 0 15px 0 15px;
+    background: #666;
+    font-size: 15px;
+    color: #fff;
+    transition: all 300ms linear 0s;
+    margin-bottom: 50px;
+}
+.our-team:hover .social li a{
+    border-radius: 15px 0 15px 0;
+    background: #5b8059;
+}
+@media only screen and (max-width: 767px){
+    .our-team{ margin-bottom: 30px; }
+}
+
+</style>
+
+
+    <!-- Slider Start -->
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>Here are our group members.</h1>
+                    <p>Do not hesitate to contact us!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!-- Portfolio Start -->
+<section id="portfolio-work">
+  <div class="container">
+    <div class="row">
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                <img src="{{ site.baseurl }}/img/team/John.png">
+              </div>
+              <h2 class="title">John Pannell</h2>
+              <h3 class="post">Group leader</h3>
+              <p style="text-align: justify;">
+
+                My research is directed towards understanding (1) the evolution of plant gender, sexual dimorphism, 
+                sex allocation strategies, and sex chromosomes, (2) the ecology, genetics and evolution of polyploidy, 
+                especially in its interaction with the sexual system and (3) the evolution of local adaptation, particularly 
+                in colonizing plant species; and the ecology and population genetics of metapopulations and range expansions 
+                subject to repeated local extinctions and re-colonisations.
+
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/group-leaders/prof-john-pannell.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+                <!-- <li><a href="#" class="fa-brands fa-orcid"></a></li> -->
+                <li><a href="https://scholar.google.com/citations?user=gg_nW5gAAAAJ&hl=fr&oi=ao" target="_blank" class="ai ai-google-scholar"></a></li>
+                <!-- <li><a href="#" class="fab fa-linkedin"></a></li> -->
+              </ul>
+          </div>
+      </div>
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Thomas.png">
+              </div>
+              <h2 class="title">Thomas Lesaffre</h2>
+              <h3 class="post">Post-Doc</h3>
+              <p style="text-align: justify;">
+
+                I am a theoretician, broadly interested in the evolution of plants. During my PhD, which I did in Lille under 
+                the supervision of Dr Sylvain Billiard, I developed population genetics models to study the link between perenniality, 
+                inbreeding depression and mating systems in flowering plants. For my postdoc, I will develop models incorporating key 
+                aspects of plant physiology to study the evolution of life-histories and senescence in plants.
+              
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/post-docs--associates/dr-thomas-lesaffre.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+                <li><a href="https://scholar.google.com/citations?hl=fr&user=ENCt7ScAAAAJ" target="_blank" class="ai ai-google-scholar"></a></li>
+                <li><a href="https://twitter.com/Thomas_Lsffr" target="_blank" class="fab fa-twitter"></a></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Shengman.png">
+              </div>
+              <h2 class="title">Shengman Lyu</h2>
+              <h3 class="post">Post-Doc</h3>
+              <p style="text-align: justify;">
+
+               In progress.
+              
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/graduate-students/shengman-lyu.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+              </ul>
+            </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Kai.png">
+              </div>
+              <h2 class="title">Kai-Hsiu Chen</h2>
+              <h3 class="post">PhD student</h3>
+              <p style="text-align: justify;">
+
+                In general, I am interested in the ecology and evolution of plant mating, sexual, and pollination system.
+                My PhD research focuses on different sex allocation strategies and their fitness consequence using Anemone
+                alpina (hermaphroditic, perennial, and insect-pollinated) and Mercurialis annua (Dioecious, annual, and
+                wind-pollinated). For instance, trade-offs between growth, survival, and reproduction among growing seasons,
+                effects of herbivory on sex allocation, selection gradients imposed by pollinators and antagonists on floral 
+                traits, and fitness-gain curves of male and female sex function… etc.
+
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/graduate-students/kai-hsiu-chen.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Thu.png">
+              </div>
+              <h2 class="title">Mai-Thu Nguyen</h2>
+              <h3 class="post">PhD student</h3>
+              <p style="text-align: justify;">
+                I am excited about population dynamics and currently exploring the transition between different sexual systems that
+                involve interactions between maternally and biparentally inherited modifiers of sex allocation. My aim is to use
+                theoretical modelling, genomics and transcriptomics data to understand sex allocation and how sterility mutations
+                spread in populations.
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/graduate-students/mai-thu-nguyen.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+                <li><a href="https://scholar.google.com/citations?hl=fr&user=6j-EgpwAAAAJ" target="_blank" class="ai ai-google-scholar"></a></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Ehouarn.png">
+              </div>
+              <h2 class="title">Ehouarn Le Faou</h2>
+              <h3 class="post">PhD student</h3>
+              <p style="text-align: justify;">
+                My primary interest lies in the field of evolutionary biology, with a particular focus on the evolution of 
+                reproductive systems. My academic background has provided me with various skills in population genetics, statistics, 
+                ecology, and modelling. My early work and interests were more theoretical, but I'm now much more 
+                involved in empirical work, doing my PhD on the evolution of reproductive systems in plants.
+
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/graduate-students/ehouarn-le-faou.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+                <li><a href="https://scholar.google.com/citations?hl=fr&user=vlDjTXUAAAAJ" target="_blank" class="ai ai-google-scholar"></a></li>
+                <li><a href="https://twitter.com/ehouarnlefaou" target="_blank" class="fab fa-twitter"></a></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Dessi.png">
+              </div>
+              <h2 class="title">Dessislava Savova Bianchi</h2>
+              <h3 class="post">Staff</h3>
+              <p style="text-align: justify;">
+
+                DNA extractions and amplification, AFLP, Microsatellites, gel electrophoresis on plant and animal species. Responsible of the laboratory and management of laboratory stock.
+
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/staff--admins/dessislava-savova-bianchi.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+              </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</section>
+
+
+
+<section id="portfolio-work">
+  <h2 style="text-align: center;">Former members</h2>
+  <div class="container">
+    <div class="row">
+
+        <div class="col-md-3 col-sm-6">
+          <div class="our-team">
+              <div class="pic">
+                  <img src="{{ site.baseurl }}/img/team/Ester.png">
+              </div>
+              <h2 class="title">Esther Dale</h2>
+              <h3 class="post">Post-Doc</h3>
+              <p style="text-align: justify;">
+
+                I am a plant ecologist interested in the evolution of lineages. I'm currently looking at changes in sexual 
+                system with biome shifts in New Zealand Veronica. My previous work has included examining the role of biome 
+                shifts in lineage diversification, macroevolution of mast seeding, and genomic downsizing in the New Zealand 
+                flora. You can find out more about my work and publications on 
+                <a href="https://estherdale.github.io/" target="_blank">my website</a>.
+
+              </p>
+              <ul class="social">
+                <li><a href="https://www.unil.ch/dee/home/menuguid/people/post-docs--associates/dr-esther-dale.html" target="_blank" class="fa-solid fa-building-columns"></a></li>
+                <li><a href="https://scholar.google.com/citations?hl=fr&user=wHveNBkAAAAJ" target="_blank" class="ai ai-google-scholar"></a></li>
+                <li><a href="https://orcid.org/0000-0001-8137-460X" target="_blank" class="fa-brands fa-orcid"></a></li>
+                <li><a href="https://twitter.com/estheraceae" target="_blank" class="fab fa-twitter"></a></li>
+              </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</section>
+
+
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Do not hesitate to contact us!</h2>
+          <p>If you are interested in learning more about our research, or if you have any questions or comments, please don't hesitate to contact us using the form available below. We look forward to hearing from you!</p>
+          <a class="btn btn-default btn-call-to-action" href="{{ site.baseurl }}/contact" >Contact us!</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
