@@ -1,6 +1,6 @@
 ---
 layout: about
-title: EcoRaMa
+title: Home
 permalink: /
 subtitle: Ecological and Evolutionary drivers of species Range Margins
 
