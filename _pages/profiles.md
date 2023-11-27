@@ -14,25 +14,31 @@ profiles:
     content: #about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
+      <p>Shengman Lyu</p>
+      <p>University of Lausanne, Switzerland</p>
       <p>Your City, State 12345</p>
-  
   - align: right
     image: prof_pic.jpg
     content: #about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
+      <p>John Pannell</p>
+      <p>University of Lausanne, Switzerland</p>
       <p>Your City, State 12345</p>
-  
   - align: right
     image: prof_pic.jpg
     content: #about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <p>EcoRaMa partner 1</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: right
+    image: prof_pic.jpg
+    content: #about_einstein.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>EcoRaMa partner 2</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 ---
