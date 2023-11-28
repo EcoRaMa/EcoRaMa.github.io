@@ -31,7 +31,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 ## Test sharing Google documents
 
-Here is the  <a href = "[## Table of Contents Options](https://docs.google.com/spreadsheets/d/1_hAp6F0MsndE8R49em9UaMVLqFqr1ZhM/edit?usp=drive_link&ouid=102358639314492490823&rtpof=true&sd=true)"> Excel template </a> for site information.
+Here is the  <a href = "https://docs.google.com/spreadsheets/d/1_hAp6F0MsndE8R49em9UaMVLqFqr1ZhM/edit?usp=drive_link&ouid=102358639314492490823&rtpof=true&sd=true"> Excel template </a> for site information.
 
 ## Table of Contents Options
 
