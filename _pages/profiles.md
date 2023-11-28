@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: EcoRaMa team
 nav: true
-nav_order: 1
+nav_order: 9
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
