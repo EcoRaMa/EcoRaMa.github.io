@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /people/
+permalink: /protocol/
 title: Protocol
 description: 
 nav: true
