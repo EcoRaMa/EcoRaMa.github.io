@@ -2,7 +2,7 @@
 layout: page
 permalink: /protocol/
 title: Protocol
-description: EcoRaMa instructions
+description:  
 nav: true
 nav_order: 1
 toc: true
