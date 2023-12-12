@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 ---
 
- <!-- _includes/blog.html -->
-    <div>
+<div class="container">
       {% include blog.html %}        
-    </dive>
+</div>
