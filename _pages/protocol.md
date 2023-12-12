@@ -2,7 +2,7 @@
 layout: post
 permalink: /protocol/
 title: Protocol
-description: 
+description: EcoRaMa instructions
 nav: true
 nav_order: 1
 toc:
