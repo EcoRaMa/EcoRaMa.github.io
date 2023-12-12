@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /protocol/
-title: Protocol
+permalink: /resource/
+title: Resource
 description:  
 nav: true
-nav_order: 1
+nav_order: 4
 toc: true
 ---
 
