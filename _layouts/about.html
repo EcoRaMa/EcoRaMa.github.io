@@ -41,6 +41,11 @@ layout: default
             {{ content }}
           </div>
 
+            <!-- Team -->
+            <div>
+            {% include team.html %}        
+            </dive>
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
@@ -58,12 +63,6 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
-
-            <!-- Team -->
-            <div>
-            {% include team.html %}        
-            </dive>
-
             
           <!-- Social -->
           {%- if page.social %}
