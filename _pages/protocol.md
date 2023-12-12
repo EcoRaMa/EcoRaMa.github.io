@@ -5,8 +5,7 @@ title: Protocol
 description: EcoRaMa instructions
 nav: true
 nav_order: 1
-toc:
-  sidebar: left
+toc: true
 ---
 
 ***************************************
