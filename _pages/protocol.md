@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: page
 permalink: /protocol/
 title: Protocol
 description: EcoRaMa instructions
 nav: true
 nav_order: 1
 toc:
-  beginning: true
+  sidebar: left
 ---
 
 ***************************************
