@@ -4,7 +4,7 @@ permalink: /resource/
 title: Resource
 description:  
 nav: true
-nav_order: 4
+nav_order: 2
 toc: true
 ---
 
