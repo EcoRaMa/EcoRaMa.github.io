@@ -9,7 +9,7 @@ profile:
   image: Mercurialis.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>*Mercurialis annua*</p>
+    <p>Mercurialis annua L.</p>
     <p></p>
     <p></p>
 
