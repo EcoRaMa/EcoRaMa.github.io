@@ -6,10 +6,10 @@ subtitle:
 
 profile:
   align: centre
-  image: prof_pic.jpg
+  image: Mercurialis.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>EcoRaMa sites</p>
+    <p>*Mercurialis annua*</p>
     <p></p>
     <p></p>
 
