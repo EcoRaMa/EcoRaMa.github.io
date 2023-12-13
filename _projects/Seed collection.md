@@ -1,10 +1,13 @@
 ---
 layout: page
-title: S
-description: a project with a background image
+title: Seed collection 
+description: Last update in August 2023
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
+
+Here are instructions on collecting seeds from wild populations in the Refugium (Tel Aviv), Core (Prague, Lausanne, Bordeaux) and Edge (Kassel, Waggenigen, Oxford) sites. These document can be downloaded from Google Drive:
+
+
 
