@@ -11,7 +11,7 @@ toc:
 
 *****************************************
 ## Lab note for each site
-Only EcoRaMa partners can access this document. The link can be found on the Slack channel of EcoRaMa.
+Only EcoRaMa partners can access this document. The link will soon be available on the Slack channel of EcoRaMa.
 
 ***************************************
 ## Project memorandum
