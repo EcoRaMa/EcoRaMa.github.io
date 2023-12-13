@@ -11,7 +11,6 @@ description:
 
 <hr>
 
-> ##### Contact information
 > **Shengman Lyu**
 >
 > University of Lausanne
