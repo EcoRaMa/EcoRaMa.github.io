@@ -2,7 +2,7 @@
 layout: page
 title: Plot establishment 
 description: Last update in September 2023
-img: assets/img/12.jpg
+img: assets/img/set-up.jpg
 importance: 1
 category: work
 ---
