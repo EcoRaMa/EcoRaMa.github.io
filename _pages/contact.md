@@ -13,17 +13,18 @@ description:
 
 > **Shengman Lyu**
 >
-> University of Lausanne
-> 
 > Department of Ecology and Evolution
-> 
+>
 > Biophore - office 4319
+>  
+> University of Lausanne
 > 
 > CH-1015 Lausanne
 > 
 > Switzerland
->
 > 
+> 
+>  
 > **E-mail:** shengman.lyu@unil.ch
 > 
 > **Phone:** +41 78 742 6656
