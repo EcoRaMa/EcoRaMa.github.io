@@ -2,7 +2,7 @@
 layout: page
 title: Seed collection 
 description: Last update in August 2023
-img: assets/img/12.jpg
+img: assets/img/seed-collection.jpg
 importance: 2
 category: work
 ---
