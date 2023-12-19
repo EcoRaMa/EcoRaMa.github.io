@@ -25,6 +25,6 @@ An Excel template for collecting information on the experimental sites can also 
 The proposed schedule for set-up.
 </div>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSeGUOSsN7tUfNFFY8IGN82ZM6dTB6ZqZRNACtsWeF0N8chRpZuSr4KHeRUEFCwZA/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='1000' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSeGUOSsN7tUfNFFY8IGN82ZM6dTB6ZqZRNACtsWeF0N8chRpZuSr4KHeRUEFCwZA/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
