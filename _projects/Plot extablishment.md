@@ -26,9 +26,7 @@ The proposed schedule for set-up.
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
       <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSeGUOSsN7tUfNFFY8IGN82ZM6dTB6ZqZRNACtsWeF0N8chRpZuSr4KHeRUEFCwZA/pubhtml?widget=true&amp;headers=false"></iframe>
-    </div>
 </div>
 
 
