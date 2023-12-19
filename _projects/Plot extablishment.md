@@ -20,13 +20,15 @@ The documents can be downloaded from Google Drive: <a href="https://drive.google
 
 An Excel template for collecting information on the experimental sites can also be downloaded: <a href="https://docs.google.com/spreadsheets/d/1PByfi0RTRiEdsazAqNakKLBR-3CvO2HF/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Excel template for collecting population information (Excel)</a>
 
+
+<div class="caption">
+The proposed schedule for set-up.
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Set-up-schedule.png" title="schedule" class="img-fluid rounded z-depth-1" %}
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSeGUOSsN7tUfNFFY8IGN82ZM6dTB6ZqZRNACtsWeF0N8chRpZuSr4KHeRUEFCwZA/pubhtml?widget=true&amp;headers=false"></iframe>
     </div>
-</div>
-<div class="caption">
-    The proposed schedule for set-up.
 </div>
 
 
