@@ -19,5 +19,5 @@ This will be available soon.
 
 *****************************************
 ## QR code links to this website
-<img src="assets/img/QRcode.png" alt="QR code" style="width:200px;height:200px;">
+<img src="/assets/img/QRcode.png" alt="QR code" style="width:200px;height:200px;">
 
