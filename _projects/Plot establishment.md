@@ -7,11 +7,12 @@ importance: 1
 category: work
 ---
 
-This document <a href="https://drive.google.com/file/d/1w68khYl-AA0j-AXo7adOv3biQuop1UBL/view?usp=sharing" target="_blank">Instructions for plot establishment (PDF)</a> details instructions for: 
+This document <a href="https://drive.google.com/file/d/1tnPQW__1KAi8SHxrnMmRlAMcwkDmEtJW/view?usp=sharing" target="_blank">Instructions for plot establishment (PDF)</a> details instructions for: 
 
 <ul>
   <li>Site selection</li> 
   <li>Establishment of experimental plots</li> 
+  <li>Information on soil </li> 
   <li>Maintenance of experimental plots</li> 
   <li>Collection of environmental covariates</li>     
 </ul>
