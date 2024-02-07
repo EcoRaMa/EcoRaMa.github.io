@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-This document <a href="https://drive.google.com/file/d/1KhalzYfB_avj3bx501ParKZORstvWDES/view?usp=sharing" target="_blank">Instructions for plot establishment (PDF)</a> details instructions for: 
+This document <a href="https://drive.google.com/file/d/12cZ9YhjrGmMex3Sj0XODQGMp62UTAHoP/view?usp=sharing" target="_blank">Instructions for plot establishment (PDF)</a> details instructions for: 
 
 <ul>
   <li>Site selection</li> 
