@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-### Ecology and Evolution of Species Range Margins
+<h4> Ecology and Evolution of Species Range Margins </h4> 
 
 <img src="pic_trulli.jpg" alt="Italian Trulli">
 
