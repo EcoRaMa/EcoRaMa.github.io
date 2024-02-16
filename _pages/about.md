@@ -28,6 +28,16 @@ Two main population-genetic hypotheses have been advanced to explain the failure
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+## Aims
+EcoRaMa aims to uncover the ecological and evolutionary processes leading to the range margins of *Mercurialis annua* (see **Study system**) . Combining a continental-scale transplant experiment (see **Experimental Design**) with demographic modelling, quantitative genetics, and population genetics. It has three main aims:
+
+<ul>
+  <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
+  <li>(2) To identify environmental factors, including abiotic and biotic factors, and demographic processes that limit population growth towards range margins</li> 
+  <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
+</ul>
+
+
 ## Study system
 In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, *Mercurialis annua*, as a model system. *M. annua* has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from 21 populations at seven localities: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 3 localities). 
 
@@ -42,11 +52,15 @@ In spring 2024, we will establish populations at 11 localities across and beyond
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-## Aims
-We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining with demographic modelling, quantitative genetics, and population genetics, we aim to uncover the ecological and evolutionary processes leading to the range margins of *M. annua*. Specifically, we aim:
+## Data collection
+We will monitor the evolution of the experimental populations across 11 localities for four generations regarding:
 
 <ul>
-  <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
-  <li>(2) To identify environmental factors, including abiotic and biotic factors, and demographic processes that limit population growth towards range margins</li> 
-  <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
+  <li>Demographic performance</li> 
+  <li>Phenotypic variation</li> 
+  <li>Genome sequence variation</li> 
 </ul>
+
+ <center><img src="assets/img/data.collection2.png" alt="Data collection" height="60%" width="60%"></center>
+
+
