@@ -37,6 +37,7 @@ EcoRaMa aims to uncover the ecological and evolutionary processes leading to the
   <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
 </ul>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Study system
 In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, *Mercurialis annua*, as a model system. *M. annua* has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from 21 populations at seven localities: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 3 localities). 
