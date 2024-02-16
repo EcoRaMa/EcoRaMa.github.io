@@ -45,11 +45,10 @@ In spring 2024, we will establish populations at 11 localities across and beyond
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 ## Aims
-We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining the data with demographic modelling, quantitive genetics, and population genetics, we aim to uncover the ecological and evolutionary processes that contribute to the range margins of *M. annua*, specifically,
+We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining the data with demographic modelling, quantitive genetics, and population genetics, we aim to uncover the ecological and evolutionary processes leading to the range margins of *M. annua*. Specifically, we aim to:
 
 <ul>
-  <li>(1) To identify environmental factors, including abiotic and biotic factors, that limit population growth towards range margins</li> 
   <li>(2) To distinguish between the swamping and rescue explanations for species' range margins</li> 
-  <li>(3) To uncover the phenotypic and genetic factors limiting local adaptation beyond range margins.</li> 
-  <li>(4) To unravel the genetic basis of local adaptation</li> 
+  <li>(1) To identify environmental and demographic factors, including abiotic and biotic factors, that limit population growth towards range margins</li> 
+  <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
 </ul>
