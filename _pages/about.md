@@ -29,7 +29,7 @@ Two main population-genetic hypotheses have been advanced to explain the failure
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Aims
-EcoRaMa aims to uncover the ecological and evolutionary processes leading to the range margins of *Mercurialis annua* (see **Study system**) . Combining a continental-scale transplant experiment (see **Experimental Design**) with demographic modelling, quantitative genetics, and population genetics. It has three main aims:
+EcoRaMa aims to uncover the ecological and evolutionary processes leading to the range margins of *Mercurialis annua* (see **Study system**) . Combining a continental-scale transplant experiment (see **Experimental design** and **Data collection**) with demographic modelling, quantitative genetics, and population genetics, EcoRaMa has three main aims:
 
 <ul>
   <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
