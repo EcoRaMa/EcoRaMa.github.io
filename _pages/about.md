@@ -32,11 +32,11 @@ Two main population-genetic hypotheses have been advanced to explain the failure
 EcoRaMa aims to uncover the ecological and evolutionary processes leading to the range margins of *Mercurialis annua* (see **Study system**) . Combining a continental-scale transplant experiment (see **Experimental design** and **Data collection**) with demographic modelling, quantitative genetics, and population genetics, EcoRaMa has three main aims:
 
 <ol>
-  <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
-
-  <li>(2) To identify environmental factors, including abiotic and biotic factors, and demographic processes that limit population growth towards range margins</li> 
-
-  <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
+  <li>To distinguish between the swamping and rescue explanations for species' range margins</li> 
+<br>
+  <li>To identify environmental factors, including abiotic and biotic factors, and demographic processes that limit population growth towards range margins</li> 
+<br>
+  <li>To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
 </ol>
 
 
