@@ -29,14 +29,14 @@ Two main population-genetic hypotheses have been advanced to explain the failure
 <hr>
 
 ## Study system
-In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, Mercurialis annua, as a model system. M. annua has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from its range edge (orange), core (green), and refugium (blue). 
+In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, Mercurialis annua, as a model system. M. annua has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from 21 populations at seven localities: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 3 localities). 
 
 <img src="assets/img/study.system.png" alt="Study system" width="70%" height="70%">
 
 <hr>
 
 ## Experimental design
-In spring 2024, we will establish populations at 11 localities across and beyond its range. At each locality, the experimental populations are subject to different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). Across study localities, these populations are exposed to range-wide variation in abiotic and biotic conditions. The figure below shows a typical design at an edge site.  
+In spring 2024, we will establish populations at 11 localities across and beyond its range. At each locality, the experimental populations are subject to different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). The figure below shows a typical design at an edge site. Across study regions, these populations are exposed to range-wide variation in abiotic and biotic conditions. 
 
 <img src="assets/img/design.png" alt="Experimental design" width="40%" height="40%">
 
