@@ -43,7 +43,7 @@ In spring 2024, we will establish populations at 11 localities across and beyond
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Aims
-We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining the data with demographic modelling, quantitative genetics, and population genetics, we aim to uncover the ecological and evolutionary processes leading to the range margins of *M. annua*. Specifically, we aim:
+We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining with demographic modelling, quantitative genetics, and population genetics, we aim to uncover the ecological and evolutionary processes leading to the range margins of *M. annua*. Specifically, we aim:
 
 <ul>
   <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
