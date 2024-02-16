@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-This document <a href="https://drive.google.com/file/d/1vJMiJWrr8CEDc8iKkEaGa4LPWpOpvAVY/view?usp=sharing" target="_blank">Instructions for plot establishment-Feb 2024 (PDF)</a> details instructions for: 
+This document <a href="https://drive.google.com/file/d/16p1geYBt_Ym1VWu5K-7WkJmGrPGX3hGw/view?usp=sharing" target="_blank">Instructions for plot establishment-Feb 2024 (PDF)</a> details instructions for: 
 
 <ul>
   <li>Site selection</li> 
