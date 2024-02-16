@@ -29,7 +29,7 @@ Two main population-genetic hypotheses have been advanced to explain the failure
 <hr>
 
 ## Study system
-In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, Mercurialis annua, as a model system. M. annua has a range across Europe and the Middle East (the shaded area in Fig. 2), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from its range edge (orange), core (green), and refugium (blue). 
+In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, Mercurialis annua, as a model system. M. annua has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from its range edge (orange), core (green), and refugium (blue). 
 
 <img src="assets/img/study.system.png" alt="Study system" width="50%" height="50%">
 
