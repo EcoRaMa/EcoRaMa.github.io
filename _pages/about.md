@@ -62,6 +62,6 @@ We will monitor the evolution of the experimental populations across 11 localiti
   <li>Genome sequence variation</li> 
 </ul>
 
- <center><img src="assets/img/data.collection2.png" alt="Data collection" height="60%" width="60%"></center>
+ <center><img src="assets/img/data.collection.png" alt="Data collection" height="60%" width="60%"></center>
 
 
