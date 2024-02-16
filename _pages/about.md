@@ -19,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 ### Ecology and Evolution of Species Range Margins
 The processes shaping species range margins have interested ecologists and evolutionary biologists for a long time and have received increasing attention as ongoing environmental changes are shifting species' ranges. Over the ecological time scale, range margins occur when species can maintain persistent populations within ranges but fail to do so due to environmental constraints beyond range margins (Panel A in the figure below). Over the evolutionary time scale, range margins occur when species can overcome environmental constraints by local adaptation within their ranges but fail to do so beyond range margins (Panel B). 
 
@@ -48,7 +46,7 @@ In spring 2024, we will establish populations at 11 localities across and beyond
 We will monitor the evolution of these experimental populations for four generations regarding phenotypic variation, demographic performance, and genome sequence variation. Combining the data with demographic modelling, quantitive genetics, and population genetics, we aim to uncover the ecological and evolutionary processes leading to the range margins of *M. annua*. Specifically, we aim to:
 
 <ul>
-  <li>(2) To distinguish between the swamping and rescue explanations for species' range margins</li> 
-  <li>(1) To identify environmental and demographic factors, including abiotic and biotic factors, that limit population growth towards range margins</li> 
+  <li>(1) To distinguish between the swamping and rescue explanations for species' range margins</li> 
+  <li>(2) To identify environmental and demographic factors, including abiotic and biotic factors, that limit population growth towards range margins</li> 
   <li>(3) To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
 </ul>
