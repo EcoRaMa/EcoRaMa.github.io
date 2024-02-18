@@ -24,12 +24,18 @@ The processes shaping species range margins have interested ecologists and evolu
 
   <center><img src="assets/img/Range.margin_ecology_evolution.png" alt="Range margin" height="100%" width="100%"></center>
 
+<br>
+
 Two main population-genetic hypotheses have been advanced to explain the failure of local adaptation. First, local adaptation in marginal populations may be hindered by ongoing gene flow from the core of the species distribution, such that maladaptive immigrant alleles ‘swamp’ any responses to local selection (the ‘swamping’ hypothesis). Alternatively, marginal populations may be typically small and relatively inbred, with low genetic diversity due to repeated bottlenecks, with the consequent greater expression of deleterious recessive mutations and thus poor demographic performance; in this case, migration from other populations should ‘rescue’ marginal populations from the ill-effects of genetic drift and inbreeding (the ‘rescue’ hypothesis).
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Aims
 EcoRaMa aims to uncover the ecological and evolutionary processes leading to the range margins of *Mercurialis annua* (see **Study system**) . Combining a continental-scale transplant experiment (see **Experimental design** and **Data collection**) with demographic modelling, quantitative genetics, and population genetics, EcoRaMa has three main aims:
+
+##### 1. To distinguish between the swamping and rescue explanations for species' range margins
+##### 2. To identify environmental factors, including abiotic and biotic factors, and demographic processes that limit population growth towards range margins
+##### 3. To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins
 
 <ol>
   <li>To distinguish between the swamping and rescue explanations for species' range margins</li> 
@@ -38,7 +44,6 @@ EcoRaMa aims to uncover the ecological and evolutionary processes leading to the
 <br>
   <li>To uncover the phenotypic and genetic processes limiting local adaptation beyond range margins</li> 
 </ol>
-
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
