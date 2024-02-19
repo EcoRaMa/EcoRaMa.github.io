@@ -45,7 +45,7 @@ EcoRaMa aims to uncover the ecological and evolutionary processes leading to the
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Study system
-In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, *Mercurialis annua*, as a model system. *M. annua* has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from 21 populations at seven localities: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 3 localities). 
+In this project, we use a wind-pollinated dioecious (and thus fully outcrossing) annual plant, *Mercurialis annua*, as a model system. *M. annua* has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. It has recently proved ideal for experimental evolution under semi-natural conditions. We have sampled seeds from 21 populations at seven localities: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 1 locality). 
 
  <center><img src="assets/img/study.system.png" alt="Range margin" height="80%" width="80%"></center>
 
