@@ -52,7 +52,7 @@ In this project, we use a wind-pollinated dioecious (and thus fully outcrossing)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Experimental design
-In spring 2024, we establish populations subject to different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). The figure below shows a typical design at an edge site. The same experiment is set up at 11 gardens across the range of *M. annua*: range refugium (blue, n = 1 garden), core (blue, n = 3 gardens), edge (orange, n = 3 gardens), and beyond range margins (red, n = 4 gardens). This coordinated experiment allows the experimental populations to be subject to range-wide variation in abiotic and biotic conditions. 
+In spring 2024, we establish experimental populations subject to four different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). The figure below shows a typical design at an edge site. The same experimental design is repeated in 11 gardens across the entire range of *M. annua* and beyond its range margins: one garden in the refugium range  (blue), three gardens in the range core (blue), three gardens at the range margins (orange) and four gardens beyond range margins (red). Therefore, the experimental populations are exposed to range-wide variation in abiotic and biotic conditions. 
 
  <center><img src="assets/img/design.png" alt="Experimental design" height="60%" width="60%"></center>
 
