@@ -54,7 +54,7 @@ EcoRaMa uses a wind-pollinated dioecious plant, and thus fully outcrossing, *Mer
 ## Experimental design
 In 2023, we sampled seeds from 21 populations at seven localities across the range of *M. annua*: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 1 locality). These populations were grown in Lausanne in the summer of 2023 to produce maternal effects-free seeds. In spring 2024, we established experimental populations subject to four different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). The figure on the right below shows a typical design at an edge site. The same experimental design is repeated in 11 gardens across the entire range of *M. annua* and beyond its range margins: one garden in the refugium range  (blue), three gardens in the range core (blue), three gardens at the range margins (orange) and four gardens beyond range margins (red). Therefore, the experimental populations are exposed to range-wide variation in abiotic and biotic conditions. 
 
- <center><img src="assets/img/design.png" alt="Experimental design" height="90%" width="90%"></center>
+ <center><img src="assets/img/design2.png" alt="Experimental design" height="90%" width="90%"></center>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
