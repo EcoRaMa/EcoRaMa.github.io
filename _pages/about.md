@@ -47,14 +47,14 @@ EcoRaMa aims to uncover the ecological and evolutionary processes leading to the
 ## Study system
 EcoRaMa uses a wind-pollinated dioecious plant, and thus fully outcrossing, *Mercurialis annua*, as a model system. *M. annua* is an annual plant and has recently proved ideal for experimental evolution under semi-natural conditions. It has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. 
 
- <center><img src="assets/img/Mercurialis_life.cycle.png" alt="Range margin" height="80%" width="80%"></center>
+ <center><img src="assets/img/Mercurialis_life.cycle.png" alt="Range margin" height="60%" width="60%"></center>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Experimental design
 In 2023, we sampled seeds from 21 populations at seven localities across the range of *M. annua*: range edge (orange, n = 3 localities), core (green, n = 3 localities), and refugium (blue, n = 1 locality). These populations were grown in Lausanne in the summer of 2023 to produce maternal effects-free seeds. In spring 2024, we established experimental populations subject to four different 'admixture' (i.e. migration) treatments, ranging from zero (no admixture) to local (local admixture) to distant (core-edge admixture and refugium-edge admixture). The figure on the right below shows a typical design at an edge site. The same experimental design is repeated in 11 gardens across the entire range of *M. annua* and beyond its range margins: one garden in the refugium range  (blue), three gardens in the range core (blue), three gardens at the range margins (orange) and four gardens beyond range margins (red). Therefore, the experimental populations are exposed to range-wide variation in abiotic and biotic conditions. 
 
- <center><img src="assets/img/design.png" alt="Experimental design" height="60%" width="60%"></center>
+ <center><img src="assets/img/design.png" alt="Experimental design" height="80%" width="80%"></center>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
