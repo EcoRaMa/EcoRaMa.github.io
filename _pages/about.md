@@ -47,7 +47,7 @@ EcoRaMa aims to uncover the ecological and evolutionary processes leading to the
 ## Study system
 EcoRaMa uses a wind-pollinated dioecious plant, and thus fully outcrossing, *Mercurialis annua*, as a model system. *M. annua* is an annual plant and has recently proved ideal for experimental evolution under semi-natural conditions. It has a range across Europe and the Middle East (the shaded area), resulting from northern- and westward range expansion out of an eastern Mediterranean refugium after the Pleistocene glaciation ended. 
 
- <center><img src="assets/img/Mercurialis_life.cycle.png" alt="Range margin" height="60%" width="60%"></center>
+ <center><img src="assets/img/Mercurialis_life.cycle.png" alt="Range margin" height="70%" width="70%"></center>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -67,6 +67,6 @@ We will monitor the evolution of the experimental populations across 11 localiti
   <li>Genome sequence variation</li> 
 </ul>
 
- <center><img src="assets/img/data.collection.png" alt="Data collection" height="60%" width="60%"></center>
+ <center><img src="assets/img/data.collection.png" alt="Data collection" height="50%" width="50%"></center>
 
 
