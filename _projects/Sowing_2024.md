@@ -2,7 +2,7 @@
 layout: page
 title: Sowing Spring 2024
 description: Last update in March 2024
-img: assets/img/sowing.jpg
+img: assets/img/sowing.jpeg
 importance: 2
 category: work
 ---
