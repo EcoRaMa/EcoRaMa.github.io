@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 #### Ecology and Evolution of Species Range Margins
-The processes shaping species range margins have interested ecologists and evolutionary biologists for a long time and have received increasing attention as ongoing environmental changes are shifting species' ranges. Over the ecological time scale, range margins occur when species can maintain persistent populations within ranges but fail to do so due to environmental constraints beyond range margins (Panel A in the figure below). Over the evolutionary time scale, range margins occur when species can overcome environmental constraints by local adaptation within their ranges but fail to do so beyond range margins (Panel B). 
+The processes shaping species range margins have interested ecologists and evolutionary biologists for a long time and have received increasing attention as ongoing environmental changes are shifting species' ranges. Without dispersal limitation, range margins occur when species can maintain persistent populations within their ranges but fail to do so beyond range margins (Panel A in the diagram below). Various ecological factors, such as climate and species interactions, can limit population growth rates beyond range margins, leading niche limits to range limits. Over the evolutionary time scale, range margins occur when species can overcome environmental constraints by local adaptation within their ranges but fail to do so beyond range margins, leading adaptation limits to range limits (Panel B). 
 
   <center><img src="assets/img/Range.margin_ecology_evolution.png" alt="Range margin" height="100%" width="100%"></center>
 
