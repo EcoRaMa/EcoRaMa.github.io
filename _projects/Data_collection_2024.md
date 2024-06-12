@@ -64,23 +64,22 @@ You or your helpers need to ask for access to the folders for the first time.
 </ul>
 
 #### Photos (2024-06-12)
-
 ###### Range centre gardens
+<div class="container">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <img src="assets/img/data_collection_2024.jpg" alt="Lausanne">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      Prague
+    </div>
+  </div>
+</div>
 
 ###### Range margin gardens
 
 ###### Out-of-range gardens
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-  </div>
-</div>
