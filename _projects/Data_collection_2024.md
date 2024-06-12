@@ -81,18 +81,6 @@ You or your helpers need to ask for access to the folders for the first time.
 
 **Range centre gardens**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 **Range margin gardens**
 
 **Out-of-range gardens**
