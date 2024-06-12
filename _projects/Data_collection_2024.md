@@ -63,7 +63,7 @@ You or your helpers need to ask for access to the folders for the first time.
 <li> <a href="https://drive.google.com/drive/folders/1N_SYFleP9o4kSz9cJU-DE9OLNsQbEJka?usp=sharing" target="_blank">Tel Aviv folder</a> </li> 
 </ul>
 
-#### Lateest photos (2024-06-12)
+#### Latest photos
 **Range centre gardens**
 <div class="container">
   <div class="row">
@@ -95,7 +95,7 @@ You or your helpers need to ask for access to the folders for the first time.
       Wageningen
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="w-100"></div>x
+    <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
       Kassel
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
