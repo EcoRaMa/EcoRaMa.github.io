@@ -63,8 +63,8 @@ You or your helpers need to ask for access to the folders for the first time.
 <li> <a href="https://drive.google.com/drive/folders/1N_SYFleP9o4kSz9cJU-DE9OLNsQbEJka?usp=sharing" target="_blank">Tel Aviv folder</a> </li> 
 </ul>
 
-#### Photos (2024-06-12)
-##### Range centre gardens
+#### Lateest photos (2024-06-12)
+**Range centre gardens**
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,15 +75,16 @@ You or your helpers need to ask for access to the folders for the first time.
       Lausanne
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="w-100"></div>x
+     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
       Prague
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">    </div>
   </div>
 </div>
 
-##### Range margin gardens
+**Range margin gardens**
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -99,10 +100,11 @@ You or your helpers need to ask for access to the folders for the first time.
       Kassel
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">     </div>
   </div>
 </div>
 
-##### Out-of-range gardens
+**Out-of-range gardens**
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -113,7 +115,7 @@ You or your helpers need to ask for access to the folders for the first time.
       Bergen
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="w-100"></div>x
+    <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
       Uppsala
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
