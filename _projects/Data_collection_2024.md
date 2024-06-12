@@ -64,39 +64,63 @@ You or your helpers need to ask for access to the folders for the first time.
 </ul>
 
 #### Photos (2024-06-12)
-###### Range centre gardens
+##### Range centre gardens
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      <h2>Bordeaux</h2>
+      Bordeaux
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Lausanne
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="w-100"></div>x
+    <div class="col-sm mt-3 mt-md-0">  
+      Prague
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
 
-###### Range margin gardens
+##### Range margin gardens
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      <h2>Bordeaux</h2>
+      Oxford
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
-      Lausanne
+      Wageningen
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>x
     <div class="col-sm mt-3 mt-md-0">
+      Kassel
       {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0"></div>
   </div>
 </div>
 
-
-###### Out-of-range gardens
-
+##### Out-of-range gardens
+<div class="container">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      Edinburgh
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">  
+      Bergen
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="w-100"></div>x
+    <div class="col-sm mt-3 mt-md-0">
+      Uppsala
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      Helsinki
+      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
+</div>
