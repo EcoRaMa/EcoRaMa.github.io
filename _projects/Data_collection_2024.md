@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-### Overview 2024
+#### Overview 2024
 
 In 2024, we will collect demographic data (germination, establishment, growth, and reproduction) on refugium, core and edge populations in each garden. 
 These data will allow us to estimate population growth rates for the different source populations across our experimental sites. 
@@ -29,7 +29,7 @@ while at the end of summer in the northern gardens (Edinburgh, Bergen, Uppsala a
 We will need to decide on the exact dates individually for each garden based on the regular survey, given the life history may vary depending on the local environment.
 The workload corresponds to an estimated 20 working days in 2024. 
 
-### Protocols
+#### Protocols
 
 Note that we may need to make small changes to the beta version of the documents based on the feedback from our partners in the southern gardens. 
 So, it would be a good idea to download the document right before your measurement. 
@@ -41,7 +41,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://drive.google.com/file/d/1_6R_OrdFw21NKNTttOd48eIouKXyHCfM/view?usp=sharing" target="_blank">Intensive measurement (beta)</a> </li> 
 </ul>
 
-###  Datasheet and data entry
+####  Datasheet and data entry
 
 The field-collected data is stored on Google Drive. There are 11 folders, each for a site. 
 In each folder, you can find the Excel template for the Regular survey, flowering size and intensive measurement. 
@@ -63,13 +63,13 @@ You or your helpers need to ask for access to the folders for the first time.
 <li> <a href="https://drive.google.com/drive/folders/1N_SYFleP9o4kSz9cJU-DE9OLNsQbEJka?usp=sharing" target="_blank">Tel Aviv folder</a> </li> 
 </ul>
 
-### Latest photos (2024-06-12)
+#### Photos (2024-06-12)
 
-##### Range centre gardens
+###### Range centre gardens
 
-##### Range margin gardens
+###### Range margin gardens
 
-##### Out-of-range gardens
+###### Out-of-range gardens
 
 <div class="container">
   <div class="row">
