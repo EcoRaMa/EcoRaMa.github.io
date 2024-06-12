@@ -7,16 +7,12 @@ importance: 1
 category: work
 ---
 
-<strong>Overview 2024</strong> 
-
-<br>  <br>
+### Overview 2024
 
 In 2024, we will collect demographic data (germination, establishment, growth, and reproduction) on refugium, core and edge populations in each garden. 
 These data will allow us to estimate population growth rates for the different source populations across our experimental sites. 
 At each garden, we will also collect phenotypic data, leaf samples for genotyping, and seeds for future experiments. 
 The data collected in 2024 will allow us to address four main questions: 
-
-<br>  <br>
 
 <ul>
   <li>1. Which environmental factors and demographic rates limit the distribution of M. annua? </li>
@@ -35,9 +31,7 @@ The workload corresponds to an estimated 20 working days in 2024.
 
 <br>  <br>
 
-<strong>Protocols</strong>
-
-<br>  <br>
+### Protocols
 
 Note that we may need to make small changes to the beta version of the documents based on the feedback from our partners in the southern gardens. 
 So, it would be a good idea to download the document right before your measurement. 
@@ -49,17 +43,15 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://drive.google.com/file/d/1_6R_OrdFw21NKNTttOd48eIouKXyHCfM/view?usp=sharing" target="_blank">Intensive measurement (beta)</a> </li> 
 </ul>
 
-<strong>Datasheet templates and data entry</strong>
-
 <br>  <br>
+
+###  Datasheet templates and data entry
 
 The field-collected data is stored on Google Drive. There are 11 folders, each for a site. 
 In each folder, you can find the Excel template for the Regular survey, flowering size and intensive measurement. 
 You can print and use them in the field and enter the data you collect afterwards. 
 In each folder, there are also subfolders where you can upload photos and datasheet scans. 
 You or your helpers need to ask for access to the folders for the first time.
-
-<br>  <br>
 
 <ul>
 <li> <a href="https://drive.google.com/drive/folders/16LKeyzN48xk2NVFstP3jiav0iU1Y6jS8?usp=sharing" target="_blank">Bordeaux folder</a> </li> 
@@ -75,12 +67,10 @@ You or your helpers need to ask for access to the folders for the first time.
 <li> <a href="https://drive.google.com/drive/folders/1N_SYFleP9o4kSz9cJU-DE9OLNsQbEJka?usp=sharing" target="_blank">Tel Aviv folder</a> </li> 
 </ul>
 
-<strong>Latest photos (2024-06-12)</strong>
+### Latest photos (2024-06-12)
 
-<br>  <br>
+##### Range centre gardens
 
-**Range centre gardens**
+##### Range margin gardens
 
-**Range margin gardens**
-
-**Out-of-range gardens**
+#### Out-of-range gardens
