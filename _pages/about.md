@@ -69,4 +69,60 @@ We will monitor the evolution of the experimental populations across 11 localiti
 
  <center><img src="assets/img/data.collection.png" alt="Data collection" height="50%" width="50%"></center>
 
+#### Latest photos
+**Range centre gardens**
+<div class="container">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      Bordeaux (20240601)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240601.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">  
+      Lausanne (20240612)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="w-100"></div>
+    <div class="col-sm mt-3 mt-md-0">  
+      Prague (20240503)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Prague_20240503.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">    </div>
+  </div>
+</div>
 
+**Range margin gardens**
+<div class="container">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">  
+      Wageningen (20240530)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Wageningen_RE3_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      Kassel (20240612)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
+</div>
+
+**Out-of-range gardens**
+<div class="container">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      Edinburgh (20240530)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Edinburgh_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">  
+      Bergen (20240531)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_20240531.ipg.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="w-100"></div>
+    <div class="col-sm mt-3 mt-md-0">
+      Uppsala (20240612)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      Helsinki (20240612)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
+</div>
