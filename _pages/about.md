@@ -59,7 +59,7 @@ In 2023, we sampled seeds from 21 populations at seven localities across the ran
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Data collection
-We will monitor the evolution of the experimental populations across 11 localities for four generations regarding:
+We will monitor the evolution of the experimental populations across 11 localities for a few generations regarding:
 
 <ul>
   <li>Demographic performance</li> 
@@ -71,7 +71,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-#### Latest photos
+## Latest photos
 **Range centre gardens**
 <div class="container">
   <div class="row">
