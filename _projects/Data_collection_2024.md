@@ -95,7 +95,6 @@ You or your helpers need to ask for access to the folders for the first time.
       Kassel (20240612)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">     </div>
   </div>
 </div>
 
@@ -113,7 +112,7 @@ You or your helpers need to ask for access to the folders for the first time.
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
       Uppsala (20240612)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
       Helsinki (20240612)
