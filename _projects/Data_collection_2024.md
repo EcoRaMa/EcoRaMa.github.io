@@ -69,16 +69,16 @@ You or your helpers need to ask for access to the folders for the first time.
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       Bordeaux
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240601.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Lausanne
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
       Prague
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Prague_20240503.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">    </div>
   </div>
@@ -87,18 +87,16 @@ You or your helpers need to ask for access to the folders for the first time.
 **Range margin gardens**
 <div class="container">
   <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      Oxford
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0"> 
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Wageningen
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Wageningen_RE3_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
       Kassel
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">     </div>
   </div>
@@ -109,20 +107,20 @@ You or your helpers need to ask for access to the folders for the first time.
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       Edinburgh
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Edinburgh_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Bergen
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_20240531.ipg.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
       Uppsala
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
       Helsinki
-      {% include figure.html loading="eager" path="assets/img/data_collection_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
