@@ -69,6 +69,8 @@ We will monitor the evolution of the experimental populations across 11 localiti
 
  <center><img src="assets/img/data.collection.png" alt="Data collection" height="50%" width="50%"></center>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 #### Latest photos
 **Range centre gardens**
 <div class="container">
