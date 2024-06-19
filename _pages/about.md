@@ -123,8 +123,8 @@ We will monitor the evolution of the experimental populations across 11 localiti
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      Helsinki (20240612)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Helsinki (20240619)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_plot1_June19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
