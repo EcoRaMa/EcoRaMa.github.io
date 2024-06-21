@@ -76,7 +76,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      Bordeaux (20240601)
+      Bordeaux (20240620)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240620.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
@@ -96,12 +96,17 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">  
-      Wageningen (20240530)
+      Wageningen (2024-05-30)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Wageningen_RE3_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      Kassel (20240612)
+      Kassel (2024-06-12)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="w-100"></div>
+    <div class="col-sm mt-3 mt-md-0">
+      Oxford (2024-06-21)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Oxford_ 21.06.2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
@@ -110,20 +115,20 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      Edinburgh (20240530)
+      Edinburgh (2024-05-30)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Edinburgh_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
-      Bergen (20240531)
+      Bergen (2024-05-31)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_20240531.ipg.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
-      Uppsala (20240612)
+      Uppsala (2024-06-12)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      Helsinki (20240619)
+      Helsinki (2024-06-19)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_plot1_June19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
