@@ -77,7 +77,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       Bordeaux (20240601)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240601.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240620.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Lausanne (20240612)
