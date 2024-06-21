@@ -124,8 +124,8 @@ We will monitor the evolution of the experimental populations across 11 localiti
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
-      Uppsala (2024-06-12)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_CE2_20240612_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Uppsala (2024-06-19)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_LA2_2024-06-19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
       Helsinki (2024-06-19)
