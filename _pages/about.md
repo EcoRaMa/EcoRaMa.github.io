@@ -76,16 +76,16 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      Bordeaux (20240620)
+      Bordeaux (2024-06-20)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240620.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
-      Lausanne (20240612)
+      Lausanne (2024-06-12)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
-      Prague (20240624)
+      Prague (2024-06-24)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Prague_20240624.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">    </div>
