@@ -85,8 +85,8 @@ We will monitor the evolution of the experimental populations across 11 localiti
     </div>
      <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
-      Prague (20240503)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Prague_20240503.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Prague (20240624)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Prague_20240624.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">    </div>
   </div>
