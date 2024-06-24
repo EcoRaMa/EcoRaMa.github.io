@@ -108,6 +108,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
       Oxford (2024-06-21)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Oxford_ 21.06.2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">    </div>
   </div>
 </div>
 
