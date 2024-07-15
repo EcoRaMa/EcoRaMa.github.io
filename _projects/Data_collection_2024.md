@@ -22,10 +22,7 @@ The data collected in 2024 will allow us to address four main questions:
 </ul>
 
 **Germination and establishment** will be regularly monitored from the time of set-up (Regular survey), while the other demographic rates and phenotypic data will be measured only once at the peak growing season (Intensive measurement).
-At one time point when plants start to flower, plant height is measured to estimate flowering size (Flowering size). 
-**Flowering size measurement** probably happens in the 4th week after sowing. 
-
-The **Harvest and Disturbance** probably happens at the beginning of summer before the summer drought. The workload corresponds to an estimated 20 working days in 2024. Based on the regular survey, we will need to decide on the exact dates individually for each garden. Our current guesses for the likely best harvest time for the plots are as follows:
+At one time point when plants start to flower, plant height is measured to estimate flowering size (Flowering size). **Flowering size measurement** probably happens in the 4th week after sowing. **Summer Harvest and Disturbance** probably happens at the beginning of summer before the summer drought. The workload corresponds to an estimated 20 working days in 2024. Based on the regular survey, we will need to decide on the exact dates individually for each garden. Our current guesses for the likely best harvest time for the plots are as follows:
 
 <ul>
   <li>Lausanne: mid July (done) </li>
