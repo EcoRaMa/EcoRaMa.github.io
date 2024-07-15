@@ -21,13 +21,20 @@ The data collected in 2024 will allow us to address four main questions:
   <li>4. Are phenotypic traits related to demographic performance?</li>
 </ul>
 
-Germination and establishment will be regularly monitored from the time of set-up (Regular survey), while the other demographic rates and phenotypic data will be measured only once at the peak growing season (Intensive measurement).
+**Germination and establishment** will be regularly monitored from the time of set-up (Regular survey), while the other demographic rates and phenotypic data will be measured only once at the peak growing season (Intensive measurement).
 At one time point when plants start to flower, plant height is measured to estimate flowering size (Flowering size). 
-Flowering size measurement probably happens in the 4th week after sowing. 
-The intensive measurement probably happens at the beginning of summer before summer drought in the southern gardens (Bordeaux, Lausanne, Prague, Wageningen, Kassel and Oxford), 
-while at the end of summer in the northern gardens (Edinburgh, Bergen, Uppsala and Helsinki). 
-We will need to decide on the exact dates individually for each garden based on the regular survey, given the life history may vary depending on the local environment.
-The workload corresponds to an estimated 20 working days in 2024. 
+**Flowering size measurement** probably happens in the 4th week after sowing. 
+
+The **Harvest and Disturbance** probably happens at the beginning of summer before the summer drought. The workload corresponds to an estimated 20 working days in 2024. Based on the regular survey, we will need to decide on the exact dates individually for each garden. Our current guesses for the likely best harvest time for the plots are as follows:
+
+<ul>
+  <li>Lausanne: mid July (done) </li>
+  <li>Prague: mid-July till early August</li>
+  <li>Kassel, Waageningen and Oxford: mid - end of August</li>
+  <li>Edinburgh, Bergen, Uppsala, Helsinki: early to mid-September</li>
+  <li>Bordeaux: resow in October or November</li>
+  <li>Israel: sow in October or November</li>
+</ul>
 
 #### Protocols
 
@@ -37,8 +44,8 @@ So, it would be a good idea to download the document right before your measureme
 <ul>
   <li> <a href="https://drive.google.com/file/d/1CPkcYTsigEZREk1EB0a00_VrN3thyI9b/view?usp=sharing" target="_blank">Overview 2024 </a> </li>   
   <li> <a href="https://drive.google.com/file/d/14tPrWAY0fCdz8oHr8o1fjgC5xBAroMwk/view?usp=sharing" target="_blank">Regular survey </a> </li> 
-  <li> <a href="https://drive.google.com/file/d/1K6GhXOW1q8WlIWLuzWLl_wBFGj_S9vg5/view?usp=sharing" target="_blank">Flowering size (beta) </a> </li> 
-  <li> <a href="https://drive.google.com/file/d/1_6R_OrdFw21NKNTttOd48eIouKXyHCfM/view?usp=sharing" target="_blank">Intensive measurement (beta)</a> </li> 
+  <li> <a href="https://drive.google.com/file/d/1K6GhXOW1q8WlIWLuzWLl_wBFGj_S9vg5/view?usp=sharing" target="_blank">Flowering size </a> </li> 
+  <li> <a href="https://drive.google.com/file/d/1Zfh78TGGZ2zcuX-PI4qPh4fTBKQZR7ZQ/view?usp=sharing" target="_blank">Harvest and Disturbance </a> </li> 
 </ul>
 
 ####  Datasheet and data entry
@@ -47,7 +54,7 @@ The field-collected data is stored on Google Drive. There are 11 folders, each f
 In each folder, you can find the Excel template for the Regular survey, flowering size and intensive measurement. 
 You can print and use them in the field and enter the data you collect afterwards. 
 In each folder, there are also subfolders where you can upload photos and datasheet scans. 
-You or your helpers need to ask for access to the folders for the first time.
+You or your helpers need to ask for first-time access to the folders.
 
 <ul>
 <li> <a href="https://drive.google.com/drive/folders/16LKeyzN48xk2NVFstP3jiav0iU1Y6jS8?usp=sharing" target="_blank">Bordeaux folder</a> </li> 
