@@ -42,7 +42,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://drive.google.com/file/d/1CPkcYTsigEZREk1EB0a00_VrN3thyI9b/view?usp=sharing" target="_blank">Overview 2024 </a> </li>   
   <li> <a href="https://drive.google.com/file/d/14tPrWAY0fCdz8oHr8o1fjgC5xBAroMwk/view?usp=sharing" target="_blank">Regular survey </a> </li> 
   <li> <a href="https://drive.google.com/file/d/1K6GhXOW1q8WlIWLuzWLl_wBFGj_S9vg5/view?usp=sharing" target="_blank">Flowering size </a> </li> 
-  <li> <a href="https://drive.google.com/file/d/1Zfh78TGGZ2zcuX-PI4qPh4fTBKQZR7ZQ/view?usp=sharing" target="_blank">Harvest and Disturbance </a> </li> 
+  <li> <a href="https://drive.google.com/file/d/1CeN7je89fVyIxtLmS05CJ0kAWK8PRhrL/view?usp=sharing" target="_blank">Harvest and Disturbance (July 16th) </a> </li> 
 </ul>
 
 ####  Datasheet and data entry
