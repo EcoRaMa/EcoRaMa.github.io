@@ -80,8 +80,8 @@ We will monitor the evolution of the experimental populations across 11 localiti
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bordeaux_20240620.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
-      Lausanne (2024-06-12)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Lausanne (2024-06-27)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_2024-06-27.heic" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
@@ -96,17 +96,17 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">  
-      Wageningen (2024-05-30)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Wageningen_RE3_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Wageningen (2024-08-16)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Wageningen_2024-08-16.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      Kassel (2024-06-12)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_20240612.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Kassel (2024-08-13)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Kassel_2024-08-13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
-      Oxford (2024-06-21)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Oxford_ 21.06.2024.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Oxford (2024-08-19)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Oxford_2024-08-19.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">    </div>
   </div>
@@ -116,21 +116,21 @@ We will monitor the evolution of the experimental populations across 11 localiti
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      Edinburgh (2024-05-30)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Edinburgh_20240530.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Edinburgh (2024-08-13)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Edinburgh_2024-08-13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">  
-      Bergen (2024-05-31)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_20240531.ipg.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Bergen (2024-08-23)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_2024-08-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
-      Uppsala (2024-06-19)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_LA2_2024-06-19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      Uppsala (2024-08-14)
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_2024-08-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
       Helsinki (2024-06-19)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_plot1_June19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_2024-08-10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
