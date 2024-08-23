@@ -81,7 +81,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Lausanne (2024-06-27)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne_2024-06-27.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Lausanne2_2024-06-27.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">  
@@ -121,7 +121,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
     </div>
     <div class="col-sm mt-3 mt-md-0">  
       Bergen (2024-08-23)
-      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen_2024-08-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Bergen2_2024-08-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm mt-3 mt-md-0">
@@ -129,7 +129,7 @@ We will monitor the evolution of the experimental populations across 11 localiti
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Uppsala_2024-08-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      Helsinki (2024-06-19)
+      Helsinki (2024-08-10)
       {% include figure.html loading="eager" path="assets/img/Ecorama_photos/Helsinki_2024-08-10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
