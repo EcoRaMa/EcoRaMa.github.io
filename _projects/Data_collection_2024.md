@@ -43,6 +43,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://drive.google.com/file/d/14tPrWAY0fCdz8oHr8o1fjgC5xBAroMwk/view?usp=sharing" target="_blank">Regular survey </a> </li> 
   <li> <a href="https://drive.google.com/file/d/1K6GhXOW1q8WlIWLuzWLl_wBFGj_S9vg5/view?usp=sharing" target="_blank">Flowering size </a> </li> 
   <li> <a href="https://drive.google.com/file/d/1L11GgRLa6GYmvh4gnsUCGpf2p6Qu0Z7W/view?usp=sharing" target="_blank">Harvest and Disturbance (August 26th) </a> </li> 
+<li> <a href="https://drive.google.com/file/d/1ZcKVS9Gz1KDDyR88Bzam-l7I62qfFfZv/view?usp=sharing" target="_blank">Seed counting APPs </a> </li> 
 </ul>
 
 ####  Datasheet and data entry
