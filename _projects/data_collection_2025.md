@@ -2,7 +2,7 @@
 layout: page
 title: Data collection 2025
 description: Last update in February 2025
-img: assets/img/data_collection_2024.jpg
+img: assets/img/data_collection_2025.jpg
 importance: 1
 category: work
 ---
@@ -12,18 +12,18 @@ category: work
 In 2025, we will monitor the plots on a regular basis (**Regular survey 2025**; ca. two hours each time). 
 The regular survey happens once a month and more frequent surveys (e.g. once every two weeks) is recommended when germination or mortality is active, for example, in autumn and spring. 
 At the beginning of flowering season, we will estimate flower size (**Flower size 2025**; ca. one day). 
-At the peak growing season, we will harvest individuals, sample leaves and seeds, and disturb the plots (**Harvest & Disturbance 2025**; ca. 2-3 weeks). We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to the previous year because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). 
+At the peak growing season, we will harvest individuals, sample leaves and seeds, and disturb the plots (**Harvest & Disturbance 2025**; ca. 2-3 weeks). 
 At the end of autumn when temperature is too cold for seeds to germinate, we will bury seeds in mesh bags in each plot to estimate seed survival over winter (**Seed survival 2025**; ca. 4 hours). To reduce the workload in 2025, we plan to harvest less plants and measure fewer traits and adapt the protocols. The expected workload corresponds to an estimated 20 working days. 
 These data will allow us to compare the germination behavior and demographic performance between the first and second generations and among experimental populations subject to different admixture treatments and climates. 
 
-Based on the regular survey, we will need to decide on the exact dates individually for each garden. Our current guesses for the likely best harvest time for the plots are as follows:
+We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to the previous year because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). We will need to decide on the exact dates individually for each garden based on the regular survey. Our current guesses for the likely best harvest time for the plots are as follows:
 
 <ul>
   <li>Israel: mid March /li>  
   <li>Bordeaux: mid May </li>
   <li>Lausanne: mid June </li>
   <li>Prague: mid-June till early July</li>
-  <li>Kassel, Waageningen and Oxford: mid - end of August</li>
+  <li>Kassel, Waageningen and Oxford: end of July or early August</li>
   <li>Edinburgh, Bergen, Uppsala, Helsinki: early to mid-September</li>
 </ul>
 
