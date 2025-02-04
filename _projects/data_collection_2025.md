@@ -19,7 +19,7 @@ These data will allow us to compare the germination behavior and demographic per
 We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to the previous year because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). We will need to decide on the exact dates individually for each garden based on the regular survey. Our current guesses for the likely best harvest time for the plots are as follows:
 
 <ul>
-  <li>Israel: mid March/li>  
+  <li>Israel: mid March</li>  
   <li>Bordeaux: mid May</li>
   <li>Lausanne: mid June</li>
   <li>Prague: mid-June till early July</li>
@@ -27,9 +27,7 @@ We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one 
   <li>Edinburgh, Bergen, Uppsala, Helsinki: early to mid-September</li>
 </ul>
 
-
 #### Protocols
-
 
 Note that we may need to make small changes to the beta version of the documents based on the feedback from our partners in the southern gardens. 
 So, it would be a good idea to download the document right before your measurement. 
@@ -41,9 +39,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://docs.google.com/document/d/1K0qwmApoOKZS3sN1epdUOcdCAun77TZ1/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Seed survival 2025 </a> </li>
 </ul>
 
-
 ####  Datasheet and data entry
-
 
 The field-collected data is stored on Google Drive. There are 11 folders, each for a site. 
 In each folder, you can find the Excel template for the Regular survey, flowering size and intensive measurement. 
