@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data collection 2025
+title: Data collection 2025 (beta)
 description: Last update in February 2025
 img: assets/img/data_collection_2025.jpg
 importance: 1
