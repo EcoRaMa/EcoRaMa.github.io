@@ -19,7 +19,7 @@ These data will allow us to compare the germination behavior and demographic per
 We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to the previous year because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). We will need to decide on the exact dates individually for each garden based on the regular survey. Our current guesses for the likely best harvest time for the plots are as follows:
 
 <ul>
-  <li>Israel: mid March</li>  
+  <li>Tel Aviv: mid March</li>  
   <li>Bordeaux: mid May</li>
   <li>Lausanne: mid June</li>
   <li>Prague: mid-June till early July</li>
