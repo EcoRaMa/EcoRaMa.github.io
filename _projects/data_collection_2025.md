@@ -9,12 +9,7 @@ category: work
 
 #### Overview 2025
 
-In 2025, we will monitor the plots on a regular basis (**Regular survey 2025**; ca. two hours each time). 
-The regular survey happens once a month and more frequent surveys (e.g. once every two weeks) is recommended when germination or mortality is active, for example, in autumn and spring. 
-At the beginning of flowering season, we will estimate flower size (**Flower size 2025**; ca. one day). 
-At the peak growing season, we will harvest individuals, sample leaves and seeds, and disturb the plots (**Harvest & Disturbance 2025**; ca. 2-3 weeks). 
-At the end of autumn when temperature is too cold for seeds to germinate, we will bury seeds in mesh bags in each plot to estimate seed survival over winter (**Seed survival 2025**; ca. 4 hours). To reduce the workload in 2025, we plan to harvest less plants and measure fewer traits and adapt the protocols. The expected workload corresponds to an estimated 20 working days. 
-These data will allow us to compare the germination behavior and demographic performance between the first and second generations and among experimental populations subject to different admixture treatments and climates. 
+In 2025, we monitor the plots on a regular basis (**Regular survey 2025**; ca. two hours each time). The regular survey happens once a month and more frequent surveys (e.g. once every two weeks) is recommended when germination (e.g. in spring and autumn) and mortality (e.g. in winter) is active. At the beginning of the flowering season in early spring, we estimate flower size (**Flower size 2025**; ca. one day). At the end of the growing season in late spring or early summer, we measure and sample some individuals and disturb the plots (**Harvest & Disturbance 2025**; ca. one week). We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to 2024 because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). At the end of autumn when temperature is too cold for seeds to germinate, we bury seeds in mesh bags in each plot to estimate seed survival over winter (**Seed survival 2025**; ca. 4 hours). To reduce the workload in 2025, we plan to measure only plant height and harvest some female plants for seeds but not to sample leaves for DNA or measure other morphological traits. The expected workload corresponds to an estimated 14 working days. These data will allow us to compare the germination behavior and demographic performance between the first and second generations and among experimental populations subject to different admixture treatments and climates. 
 
 We expect the flowering and growing seasons in 2025 to be advanced (e.g. by one or two months) compared to the previous year because seeds are already in the plots since summer 2024 and they could germinate earlier (e.g. in late autumn 2024 or early spring 2025). We will need to decide on the exact dates individually for each garden based on the regular survey. Our current guesses for the likely best harvest time for the plots are as follows:
 
@@ -33,10 +28,10 @@ Note that we may need to make small changes to the beta version of the documents
 So, it would be a good idea to download the document right before your measurement. 
 
 <ul>
-  <li> <a href="https://docs.google.com/document/d/1zJFFn5b2fLCJXx42B1WY5XLcq3n_nXG1/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2025 </a> </li> 
-  <li> <a href="https://docs.google.com/document/d/1ZDpoOjKLoh2UBI3PH0V7GNwu7ep-T2Ex/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Flowering size 2025 </a> </li> 
-  <li> <a href="https://docs.google.com/document/d/1iAlR-HV1cVRcvhGE2yoofITIHgwDHFSk/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2025 </a> </li>
-  <li> <a href="https://docs.google.com/document/d/1K0qwmApoOKZS3sN1epdUOcdCAun77TZ1/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Seed survival 2025 </a> </li>
+  <li> <a href="https://docs.google.com/document/d/1zqEF5fN2yxOgQMcSHEdNGLAdEFSPQ3ka/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2025 </a> </li> 
+  <li> <a href="https://docs.google.com/document/d/1Y8zwNNabRSeqv28i07iKn7mw76Yn60lI/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Flowering size 2025 </a> </li> 
+  <li> <a href="https://docs.google.com/document/d/1UzqNjbjI_xJ1PHzwcTF6DOB_dL9QtdwM/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2025 </a> </li>
+  <li> <a href="https://docs.google.com/document/d/1jI5p5p2mb6KTyPmszT8qyp0GQkveDDhA/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Seed survival 2025 </a> </li>
 </ul>
 
 ####  Datasheet and data entry
