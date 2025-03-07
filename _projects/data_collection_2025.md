@@ -29,7 +29,6 @@ So, it would be a good idea to download the document right before your measureme
 
 <ul>
   <li> <a href="https://docs.google.com/document/d/1zqEF5fN2yxOgQMcSHEdNGLAdEFSPQ3ka/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2025 </a> </li> 
-  <li> <a href="https://docs.google.com/document/d/1Y8zwNNabRSeqv28i07iKn7mw76Yn60lI/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Flowering size 2025 </a> </li> 
   <li> <a href="https://docs.google.com/document/d/1UzqNjbjI_xJ1PHzwcTF6DOB_dL9QtdwM/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2025 </a> </li>
   <li> <a href="https://docs.google.com/document/d/1jI5p5p2mb6KTyPmszT8qyp0GQkveDDhA/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Seed survival 2025 </a> </li>
 </ul>
