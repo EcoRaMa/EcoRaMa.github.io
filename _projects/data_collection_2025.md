@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data collection 2025 (beta)
-description: Last update in February 2025
+title: Data collection 2025
+description: Last update in September 2025
 img: assets/img/data_collection_2025.jpg
 importance: 1
 category: work
@@ -31,6 +31,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://docs.google.com/document/d/1zqEF5fN2yxOgQMcSHEdNGLAdEFSPQ3ka/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2025 </a> </li> 
   <li> <a href="https://docs.google.com/document/d/1UzqNjbjI_xJ1PHzwcTF6DOB_dL9QtdwM/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2025 </a> </li>
   <li> <a href="https://docs.google.com/document/d/1jI5p5p2mb6KTyPmszT8qyp0GQkveDDhA/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Seed survival 2025 </a> </li>
+<li> <a href="https://docs.google.com/document/d/1EJu_vTnxISKugC-F2glf3jATes0s3-_R/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Download climate data 2025 </a> </li>
 </ul>
 
 ####  Datasheet and data entry
