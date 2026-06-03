@@ -3,7 +3,7 @@ layout: page
 title: Data collection 2025
 description: Last update in September 2025
 img: assets/img/data_collection_2025.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
