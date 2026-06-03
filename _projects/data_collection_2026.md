@@ -39,9 +39,9 @@ So, it would be a good idea to download the document right before your measureme
 <ul>
   <li> <a href="https://docs.google.com/document/d/1ZcIKm6DWMU4JlhmX2XE_vzq6HVmsGiCR/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2026 </a> </li> 
   <li> <a href="https://docs.google.com/document/d/13n4V8uKzOnezpBFyrTvITEN_tfEzif5T/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">DNA sampling 2026 </a> </li> 
-  <li> <a href="" target="_blank">Harvest and Disturbance 2026 </a> </li>
+  <li> <a href="https://docs.google.com/document/d/1LKNvCyRovzOtSAjj1jdz_Z3YSwG9FWI_/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2026 </a> </li>
   <li> <a href="" target="_blank">Germination experiment 2026 </a> </li>
-  <li> <a href="" target="_blank">Lausanne common garden experiment 2027 </a> </li>
+  <li> <a href="https://docs.google.com/document/d/1iVZoA-qXChHEmUvms3BU2bQxc_dCR7_o/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Lausanne common garden experiment 2027 </a> </li>
   <li> <a href="https://docs.google.com/document/d/1EJu_vTnxISKugC-F2glf3jATes0s3-_R/edit?  usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Download climate data 2026 </a> </li>
 </ul>
 
