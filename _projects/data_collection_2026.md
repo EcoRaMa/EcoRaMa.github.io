@@ -2,7 +2,7 @@
 layout: page
 title: Data collection 2026
 description: Last update in June 2026
-img: assets/img/data_collection_2025.jpg
+img: assets/img/data_collection_2026.jpg
 importance: 1
 category: work
 ---
