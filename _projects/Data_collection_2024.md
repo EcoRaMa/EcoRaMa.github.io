@@ -3,7 +3,7 @@ layout: page
 title: Data collection 2024
 description: Last update in September 2024
 img: assets/img/data_collection_2024.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
