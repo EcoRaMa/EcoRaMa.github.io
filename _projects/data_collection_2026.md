@@ -9,7 +9,9 @@ category: work
 
 #### Overview 2026
 
-In 2026, the experimental populations in the EcoRaMa plots will have been established for three years, corresponding to approximately 3–6 generations, depending on the garden. Several data collection activities are planned throughout the year. First, we will continue regular monitoring of the plots (**Regular Survey 2026**; approximately two hours per survey). Surveys should be conducted at least once per month, with more frequent visits (e.g. every two weeks) recommended during periods of active germination (typically spring and autumn) and high mortality (e.g. due to summer drought or frost in autumn). During the middle of the growing season, we will conduct leaf sampling for DNA extraction and sequencing (**DNA Sampling 2026**; approximately two person-days). Ideally, leaves should be collected at an early stage when they are still healthy and green. At the end of the growing season, in late spring or early summer, we will carry out harvesting, individual measurements, and plot disturbance (**Harvest & Disturbance 2026**; approximately one week). In late autumn 2026, we will conduct a germination experiment in Lausanne (**Germination Test 2026**) to test for possible rapid evolutionary changes of germination behavior in our experimental populations after three years of evolution. In spring 2027, we plan to establish a large common garden experiment in Lausanne (**Lausanne common garden experiment 2027**), where seeds sampled from several gardens will be grown in a common garden. We expect flowering and growing seasons in 2026 to be broadly similar to those observed in 2025, so you can use your 2025 schedule as a guide when planning fieldwork. Together, these data will allow us to compare germination behaviour and demographic performance among populations exposed to different admixture treatments and climatic conditions, as well as to evaluate how these patterns change across generations to detect possible rapid evolutionary responses.  
+In 2026, the experimental populations in the EcoRaMa plots will have been established for three years, corresponding to approximately 3–6 generations, depending on the garden. Several data collection activities are planned throughout the year. First, we will continue regular monitoring of the plots (**Regular Survey 2026**; approximately two hours per survey). Surveys should be conducted at least once per month, with more frequent visits (e.g. every two weeks) recommended during periods of active germination (typically spring and autumn) and high mortality (e.g. due to summer drought or frost in autumn). During the middle of the growing season, we will conduct leaf sampling for DNA extraction and sequencing (**DNA Sampling 2026**; approximately two person-days). Ideally, leaves should be collected at an early stage when they are still healthy and green. Approximate dates for DNA sampling are provided below. At the end of the growing season, in late spring or early summer, we will carry out harvesting, individual measurements, and plot disturbance (**Harvest & Disturbance 2026**; approximately one week). We expect flowering and growing seasons in 2026 to be broadly similar to those observed in 2025, so you can use your 2025 schedule as a guide when planning fieldwork.
+
+In the final 18 months of EcoRaMa grant, we wish now to conduct three additional experiments: (1) genomic analyses, (2) a common garden experiment (3) a quantitative genetics experiment. With these experiments, we aim to ask whether the effects of admixture after several generations of growth, mating, reproduction and selection look more like genetic rescue or genetic swamping, and how these effects vary among sites and environments. We have put together the proposed plan in a document (**EcoRaMa plan for the final 18 months**). 
 
 #### Suggested dates for DNA sampling
 
@@ -31,7 +33,7 @@ In 2026, the experimental populations in the EcoRaMa plots will have been establ
   <li>Edinburgh, Bergen, Uppsala, Helsinki: early to mid-September</li>
 </ul>
 
-#### Protocols
+#### Protocols and proposals
 
 Note that we may need to make small changes to the beta version of the documents based on the feedback from our partners in the southern gardens. 
 So, it would be a good idea to download the document right before your measurement. 
@@ -40,8 +42,7 @@ So, it would be a good idea to download the document right before your measureme
   <li> <a href="https://docs.google.com/document/d/1ZcIKm6DWMU4JlhmX2XE_vzq6HVmsGiCR/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Regular survey 2026 </a> </li> 
   <li> <a href="https://docs.google.com/document/d/13n4V8uKzOnezpBFyrTvITEN_tfEzif5T/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">DNA sampling 2026 </a> </li> 
   <li> <a href="https://docs.google.com/document/d/1LKNvCyRovzOtSAjj1jdz_Z3YSwG9FWI_/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Harvest and Disturbance 2026 </a> </li>
-  <li> <a href="https://docs.google.com/document/d/1YV9s2wE1S5wWqAWjO_P8-OBEQJ8bJHWq/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Germination experiment 2026 </a> </li>
-  <li> <a href="https://docs.google.com/document/d/1iVZoA-qXChHEmUvms3BU2bQxc_dCR7_o/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">Lausanne common garden experiment 2027 </a> </li>
+  <li> <a href="https://docs.google.com/document/d/1XkykWjYhmVCe3aafGkuPicS983jqHl0E/edit?usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true" target="_blank">EcoRaMa plan for the final 18 months</a> </li>
   <li> <a href="https://docs.google.com/document/d/1EJu_vTnxISKugC-F2glf3jATes0s3-_R/edit?  usp=sharing&ouid=102358639314492490823&rtpof=true&sd=true">Download climate data 2026 </a> </li>
 </ul>
 
